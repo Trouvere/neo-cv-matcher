@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  redis:
+    image: redis:alpine
+    ports:
+      - "6379:6379"
+
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/usr/src/app
+      - ./uploads:/usr/src/app/uploads
+    environment:
+      - PORT=3000
+      - OPENAI_API_KEY=your_openai_key_here
+      - GROQ_API_KEY=your_groq_key_here
+    depends_on:
+      - redis
+    command: sh -c "node server.js"
