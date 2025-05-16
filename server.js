@@ -1,6 +1,7 @@
 const express = require('express');
 const apiRoutes = require('./src/routes/apiRoutes');
 require('dotenv').config();
+console.log('[API] FILE_STORE_MODE:', process.env.FILE_STORE_MODE);
 
 const app = express();
 app.use(express.json());

@@ -1,0 +1,95 @@
+{
+  "info": {
+    "name": "Resume Matching API",
+    "_postman_id": "b221c1d0-1234-5678-9012-abcdef123456",
+    "description": "Collection to test Resume & Vacancy Matching API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Upload Files",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "files",
+              "type": "file",
+              "src": ""
+            },
+            {
+              "key": "files",
+              "type": "file",
+              "src": ""
+            }
+          ]
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/upload",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "api",
+            "upload"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Request Analysis",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"resumeIds\": [\"res_abc123\"],\n    \"vacancyIds\": [\"vac_def456\"],\n    \"models\": [\"openai:gpt-4\", \"groq:llama3-8b\"],\n    \"all\": false\n}"
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/analyze",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "api",
+            "analyze"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get Result by Job ID",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/api/result/{jobId}",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "api",
+            "result",
+            "{jobId}"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

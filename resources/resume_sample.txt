@@ -1,0 +1,29 @@
+John Doe
+Senior Software Engineer
+
+Contact Information:
+Email: john.doe@example.com
+Phone: +1 555-123-4567
+
+Summary:
+Experienced backend engineer with expertise in Node.js, Python, and cloud infrastructure. Proven record of designing scalable systems and APIs.
+
+Skills:
+- Node.js, Express.js
+- RESTful API design
+- Redis, RabbitMQ
+- MongoDB, PostgreSQL
+- AWS, Docker, Kubernetes
+- LLM Integration (OpenAI, Groq)
+
+Experience:
+Senior Backend Developer at TechCorp (2020 - Present)
+- Developed and maintained microservices in Node.js.
+- Integrated LLMs for resume parsing and analysis.
+- Managed message queues with Redis and RabbitMQ.
+
+Education:
+B.Sc. in Computer Science, University of Technology
+
+Certifications:
+- AWS Certified Solutions Architect

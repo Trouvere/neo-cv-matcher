@@ -1,0 +1,128 @@
+{
+  "res_70420e41-d9d8-4262-8cfe-bea645effedb": {
+    "fileId": "res_70420e41-d9d8-4262-8cfe-bea645effedb",
+    "type": "resume",
+    "filename": "resume_sample.txt",
+    "path": "uploads\\0663c686886dacf5b04df8945750fbbc",
+    "mimeType": "text/plain",
+    "extractedText": "John Doe\r\nSenior Software Engineer\r\n\r\nContact Information:\r\nEmail: john.doe@example.com\r\nPhone: +1 555-123-4567\r\n\r\nSummary:\r\nExperienced backend engineer with expertise in Node.js, Python, and cloud infrastructure. Proven record of designing scalable systems and APIs.\r\n\r\nSkills:\r\n- Node.js, Express.js\r\n- RESTful API design\r\n- Redis, RabbitMQ\r\n- MongoDB, PostgreSQL\r\n- AWS, Docker, Kubernetes\r\n- LLM Integration (OpenAI, Groq)\r\n\r\nExperience:\r\nSenior Backend Developer at TechCorp (2020 - Present)\r\n- Developed and maintained microservices in Node.js.\r\n- Integrated LLMs for resume parsing and analysis.\r\n- Managed message queues with Redis and RabbitMQ.\r\n\r\nEducation:\r\nB.Sc. in Computer Science, University of Technology\r\n\r\nCertifications:\r\n- AWS Certified Solutions Architect\r\n",
+    "uploadedAt": "2025-05-15T22:56:35.862Z"
+  },
+  "vac_aed80498-fe7b-47d7-a9a6-c8bb7b82e7e9": {
+    "fileId": "vac_aed80498-fe7b-47d7-a9a6-c8bb7b82e7e9",
+    "type": "vacancy",
+    "filename": "vacancy_sample.txt",
+    "path": "uploads\\7769c2635c49c8cef7f4ea5afe566f38",
+    "mimeType": "text/plain",
+    "extractedText": "Senior Backend Developer\r\n\r\nRequirements:\r\n- 5+ years experience with Node.js\r\n- Experience with RESTful APIs\r\n- Knowledge of Redis and message queues\r\n- Experience with LLMs is a plus\r\n",
+    "uploadedAt": "2025-05-15T22:56:35.872Z"
+  },
+  "res_b88cc079-3fdd-470f-b0d8-2340962117fb": {
+    "fileId": "res_b88cc079-3fdd-470f-b0d8-2340962117fb",
+    "type": "resume",
+    "filename": "resume_sample.txt",
+    "path": "uploads\\370040c1561ac54c599e728086a2d08e",
+    "mimeType": "text/plain",
+    "extractedText": "John Doe\r\nSenior Software Engineer\r\n\r\nContact Information:\r\nEmail: john.doe@example.com\r\nPhone: +1 555-123-4567\r\n\r\nSummary:\r\nExperienced backend engineer with expertise in Node.js, Python, and cloud infrastructure. Proven record of designing scalable systems and APIs.\r\n\r\nSkills:\r\n- Node.js, Express.js\r\n- RESTful API design\r\n- Redis, RabbitMQ\r\n- MongoDB, PostgreSQL\r\n- AWS, Docker, Kubernetes\r\n- LLM Integration (OpenAI, Groq)\r\n\r\nExperience:\r\nSenior Backend Developer at TechCorp (2020 - Present)\r\n- Developed and maintained microservices in Node.js.\r\n- Integrated LLMs for resume parsing and analysis.\r\n- Managed message queues with Redis and RabbitMQ.\r\n\r\nEducation:\r\nB.Sc. in Computer Science, University of Technology\r\n\r\nCertifications:\r\n- AWS Certified Solutions Architect\r\n",
+    "uploadedAt": "2025-05-15T22:58:02.820Z"
+  },
+  "vac_0dc94de7-68af-446a-9f0e-8ddf1fadf4e5": {
+    "fileId": "vac_0dc94de7-68af-446a-9f0e-8ddf1fadf4e5",
+    "type": "vacancy",
+    "filename": "vacancy_sample.txt",
+    "path": "uploads\\43b3e7d60b0cdab4fe91a33c061c042f",
+    "mimeType": "text/plain",
+    "extractedText": "Senior Backend Developer\r\n\r\nRequirements:\r\n- 5+ years experience with Node.js\r\n- Experience with RESTful APIs\r\n- Knowledge of Redis and message queues\r\n- Experience with LLMs is a plus\r\n",
+    "uploadedAt": "2025-05-15T22:58:02.826Z"
+  },
+  "res_9b4533aa-e098-4814-973b-409fc10847a3": {
+    "fileId": "res_9b4533aa-e098-4814-973b-409fc10847a3",
+    "type": "resume",
+    "filename": "resume_sample.txt",
+    "path": "uploads\\e53d4a9bb06d13dccf83a20d25127fa2",
+    "mimeType": "text/plain",
+    "extractedText": "John Doe\r\nSenior Software Engineer\r\n\r\nContact Information:\r\nEmail: john.doe@example.com\r\nPhone: +1 555-123-4567\r\n\r\nSummary:\r\nExperienced backend engineer with expertise in Node.js, Python, and cloud infrastructure. Proven record of designing scalable systems and APIs.\r\n\r\nSkills:\r\n- Node.js, Express.js\r\n- RESTful API design\r\n- Redis, RabbitMQ\r\n- MongoDB, PostgreSQL\r\n- AWS, Docker, Kubernetes\r\n- LLM Integration (OpenAI, Groq)\r\n\r\nExperience:\r\nSenior Backend Developer at TechCorp (2020 - Present)\r\n- Developed and maintained microservices in Node.js.\r\n- Integrated LLMs for resume parsing and analysis.\r\n- Managed message queues with Redis and RabbitMQ.\r\n\r\nEducation:\r\nB.Sc. in Computer Science, University of Technology\r\n\r\nCertifications:\r\n- AWS Certified Solutions Architect\r\n",
+    "uploadedAt": "2025-05-15T23:09:58.504Z"
+  },
+  "vac_71d0f70e-cc10-42f6-92ef-89d44c2413eb": {
+    "fileId": "vac_71d0f70e-cc10-42f6-92ef-89d44c2413eb",
+    "type": "vacancy",
+    "filename": "vacancy_sample.txt",
+    "path": "uploads\\24e71c1340573a9a5eb47c3dbd5d5dea",
+    "mimeType": "text/plain",
+    "extractedText": "Senior Backend Developer\r\n\r\nRequirements:\r\n- 5+ years experience with Node.js\r\n- Experience with RESTful APIs\r\n- Knowledge of Redis and message queues\r\n- Experience with LLMs is a plus\r\n",
+    "uploadedAt": "2025-05-15T23:09:58.514Z"
+  },
+  "res_96e2ee30-ba21-47cb-bf6e-5156abc75375": {
+    "fileId": "res_96e2ee30-ba21-47cb-bf6e-5156abc75375",
+    "type": "resume",
+    "filename": "resume_sample.txt",
+    "path": "uploads\\1d45f865535ad444356400afeaf8cd2d",
+    "mimeType": "text/plain",
+    "extractedText": "John Doe\r\nSenior Software Engineer\r\n\r\nContact Information:\r\nEmail: john.doe@example.com\r\nPhone: +1 555-123-4567\r\n\r\nSummary:\r\nExperienced backend engineer with expertise in Node.js, Python, and cloud infrastructure. Proven record of designing scalable systems and APIs.\r\n\r\nSkills:\r\n- Node.js, Express.js\r\n- RESTful API design\r\n- Redis, RabbitMQ\r\n- MongoDB, PostgreSQL\r\n- AWS, Docker, Kubernetes\r\n- LLM Integration (OpenAI, Groq)\r\n\r\nExperience:\r\nSenior Backend Developer at TechCorp (2020 - Present)\r\n- Developed and maintained microservices in Node.js.\r\n- Integrated LLMs for resume parsing and analysis.\r\n- Managed message queues with Redis and RabbitMQ.\r\n\r\nEducation:\r\nB.Sc. in Computer Science, University of Technology\r\n\r\nCertifications:\r\n- AWS Certified Solutions Architect\r\n",
+    "uploadedAt": "2025-05-15T23:52:52.699Z"
+  },
+  "vac_8b739bac-683e-4705-9d4b-79aa1d379508": {
+    "fileId": "vac_8b739bac-683e-4705-9d4b-79aa1d379508",
+    "type": "vacancy",
+    "filename": "vacancy_sample.txt",
+    "path": "uploads\\65b7ac079a1219aea8f87fd3bfca56dc",
+    "mimeType": "text/plain",
+    "extractedText": "Senior Backend Developer\r\n\r\nRequirements:\r\n- 5+ years experience with Node.js\r\n- Experience with RESTful APIs\r\n- Knowledge of Redis and message queues\r\n- Experience with LLMs is a plus\r\n",
+    "uploadedAt": "2025-05-15T23:52:52.715Z"
+  },
+  "res_89dc534b-bea8-4374-84e2-5da2c3abbf90": {
+    "fileId": "res_89dc534b-bea8-4374-84e2-5da2c3abbf90",
+    "type": "resume",
+    "filename": "resume_sample.txt",
+    "path": "uploads\\3fbcd9affc9ac6237552346b5307114d",
+    "mimeType": "text/plain",
+    "extractedText": "John Doe\r\nSenior Software Engineer\r\n\r\nContact Information:\r\nEmail: john.doe@example.com\r\nPhone: +1 555-123-4567\r\n\r\nSummary:\r\nExperienced backend engineer with expertise in Node.js, Python, and cloud infrastructure. Proven record of designing scalable systems and APIs.\r\n\r\nSkills:\r\n- Node.js, Express.js\r\n- RESTful API design\r\n- Redis, RabbitMQ\r\n- MongoDB, PostgreSQL\r\n- AWS, Docker, Kubernetes\r\n- LLM Integration (OpenAI, Groq)\r\n\r\nExperience:\r\nSenior Backend Developer at TechCorp (2020 - Present)\r\n- Developed and maintained microservices in Node.js.\r\n- Integrated LLMs for resume parsing and analysis.\r\n- Managed message queues with Redis and RabbitMQ.\r\n\r\nEducation:\r\nB.Sc. in Computer Science, University of Technology\r\n\r\nCertifications:\r\n- AWS Certified Solutions Architect\r\n",
+    "uploadedAt": "2025-05-15T23:56:27.248Z"
+  },
+  "vac_7e9c1af7-8eda-4f2a-a637-57646a91602b": {
+    "fileId": "vac_7e9c1af7-8eda-4f2a-a637-57646a91602b",
+    "type": "vacancy",
+    "filename": "vacancy_sample.txt",
+    "path": "uploads\\49d1cf25bda2db5ae0d7b26ffeb23564",
+    "mimeType": "text/plain",
+    "extractedText": "Senior Backend Developer\r\n\r\nRequirements:\r\n- 5+ years experience with Node.js\r\n- Experience with RESTful APIs\r\n- Knowledge of Redis and message queues\r\n- Experience with LLMs is a plus\r\n",
+    "uploadedAt": "2025-05-15T23:56:27.263Z"
+  },
+  "res_11f1989c-ec7e-49fb-b741-b67d2e5f1f46": {
+    "fileId": "res_11f1989c-ec7e-49fb-b741-b67d2e5f1f46",
+    "type": "resume",
+    "filename": "resume_sample.txt",
+    "path": "uploads\\7c6744e31aa61495e4c0396f178b92e6",
+    "mimeType": "text/plain",
+    "extractedText": "John Doe\r\nSenior Software Engineer\r\n\r\nContact Information:\r\nEmail: john.doe@example.com\r\nPhone: +1 555-123-4567\r\n\r\nSummary:\r\nExperienced backend engineer with expertise in Node.js, Python, and cloud infrastructure. Proven record of designing scalable systems and APIs.\r\n\r\nSkills:\r\n- Node.js, Express.js\r\n- RESTful API design\r\n- Redis, RabbitMQ\r\n- MongoDB, PostgreSQL\r\n- AWS, Docker, Kubernetes\r\n- LLM Integration (OpenAI, Groq)\r\n\r\nExperience:\r\nSenior Backend Developer at TechCorp (2020 - Present)\r\n- Developed and maintained microservices in Node.js.\r\n- Integrated LLMs for resume parsing and analysis.\r\n- Managed message queues with Redis and RabbitMQ.\r\n\r\nEducation:\r\nB.Sc. in Computer Science, University of Technology\r\n\r\nCertifications:\r\n- AWS Certified Solutions Architect\r\n",
+    "uploadedAt": "2025-05-16T00:00:25.383Z"
+  },
+  "vac_aded3549-8b9c-4819-a1e1-71b45341f049": {
+    "fileId": "vac_aded3549-8b9c-4819-a1e1-71b45341f049",
+    "type": "vacancy",
+    "filename": "vacancy_sample.txt",
+    "path": "uploads\\30358620e3dec37b071c912fd03c2a00",
+    "mimeType": "text/plain",
+    "extractedText": "Senior Backend Developer\r\n\r\nRequirements:\r\n- 5+ years experience with Node.js\r\n- Experience with RESTful APIs\r\n- Knowledge of Redis and message queues\r\n- Experience with LLMs is a plus\r\n",
+    "uploadedAt": "2025-05-16T00:00:25.388Z"
+  },
+  "res_61bd996a-fe33-4b3e-8842-2789a4d666c2": {
+    "fileId": "res_61bd996a-fe33-4b3e-8842-2789a4d666c2",
+    "type": "resume",
+    "filename": "resume_sample.txt",
+    "path": "uploads\\db5085f54b437d3fa6aa67cd2fadee94",
+    "mimeType": "text/plain",
+    "extractedText": "John Doe\r\nSenior Software Engineer\r\n\r\nContact Information:\r\nEmail: john.doe@example.com\r\nPhone: +1 555-123-4567\r\n\r\nSummary:\r\nExperienced backend engineer with expertise in Node.js, Python, and cloud infrastructure. Proven record of designing scalable systems and APIs.\r\n\r\nSkills:\r\n- Node.js, Express.js\r\n- RESTful API design\r\n- Redis, RabbitMQ\r\n- MongoDB, PostgreSQL\r\n- AWS, Docker, Kubernetes\r\n- LLM Integration (OpenAI, Groq)\r\n\r\nExperience:\r\nSenior Backend Developer at TechCorp (2020 - Present)\r\n- Developed and maintained microservices in Node.js.\r\n- Integrated LLMs for resume parsing and analysis.\r\n- Managed message queues with Redis and RabbitMQ.\r\n\r\nEducation:\r\nB.Sc. in Computer Science, University of Technology\r\n\r\nCertifications:\r\n- AWS Certified Solutions Architect\r\n",
+    "uploadedAt": "2025-05-16T00:07:57.665Z"
+  },
+  "vac_9a87b4d3-a24f-4cd8-8722-25256afed611": {
+    "fileId": "vac_9a87b4d3-a24f-4cd8-8722-25256afed611",
+    "type": "vacancy",
+    "filename": "vacancy_sample.txt",
+    "path": "uploads\\640841dc3a5a8014d8a937885c3a631b",
+    "mimeType": "text/plain",
+    "extractedText": "Senior Backend Developer\r\n\r\nRequirements:\r\n- 5+ years experience with Node.js\r\n- Experience with RESTful APIs\r\n- Knowledge of Redis and message queues\r\n- Experience with LLMs is a plus\r\n",
+    "uploadedAt": "2025-05-16T00:07:57.679Z"
+  }
+}
